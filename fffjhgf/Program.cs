@@ -10,7 +10,7 @@ namespace fffjhgf
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("edfrfjk");
         }
     }
 }
